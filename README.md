@@ -10,7 +10,14 @@
     - logistiline regressioon lk 127-138 (pdf-s alates lk 141)
     - lineaarne diskriminantanalüüs lk 138-150
 
-#### 2. Valikvastustega küsimustik
+#### 2. Tekkinud küsimused? 
+  - pane kirja tekkinud küsimused, et teaksin, millele seminaris erilist tähelepanu juhtida ja palun saada need mulle enne seminari _reigo.hendrikson@gmail.com_
+    - kui küsimus on videoloengu/slaidi kohta, siis palun märgi ära slaidi number/raamatu lk.
+  - pane kirja ka [rumalad küsimused](https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question), sest nendest õpime me ilmselt enim!
+  - kui on eelmiste teemade kohta küsimusi, siis pane ka need kirja. Huvitavad ja vähemhuvitavad küsimused, mis mulle eelmisest korrast meelde jäid:
+    - [kui usaldusväärne on p-väärtus](https://www.google.ee/search?client=ubuntu&channel=fs&q=should+we+trust+p-value&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=dwD_VbfRDOeO8QeX4LD4AQ)
+
+#### 3. Valikvastustega küsimustik
   - vasta valikvastustega [küsimustikule](https://docs.google.com/forms/d/1OfgYr3C2UNIPHsE1T7_9ET3yWqNzHP5kH7qdiSrQl8A/viewform?usp=send_form) (~15min)
   - mõtle ise välja 1-3 valikvastustega küsimust, mille üle seminaris koos mõelda/arutada. Küsimused koos valikvastustega palun saata _reigo.hendrikson@gmail.com_.
-  - vaata ka [_How much do you know about science topics?_](http://www.pewresearch.org/quiz/science-knowledge/). Kuidas läks?
+  - vaata ka [_How much do you know about science topics?_](http://www.pewresearch.org/quiz/science-knowledge/) Kuidas läks?
