@@ -23,5 +23,5 @@ Kui te ise uurisite mõne küsimuse kohta ja leidsite hea vastuse, siis oleks v�
 
 #### 3. Valikvastustega küsimustik
   - vasta valikvastustega [küsimustikule](https://docs.google.com/forms/d/1OfgYr3C2UNIPHsE1T7_9ET3yWqNzHP5kH7qdiSrQl8A/viewform?usp=send_form) (~15min)
-  - mõtle ise välja 1-3 valikvastustega küsimust, mille üle seminaris koos mõelda/arutada. Küsimused koos valikvastustega palun saata _reigo.hendrikson@gmail.com_.
+  - mõtle ise välja 1-3 valikvastustega küsimust, mille üle seminaris koos mõelda/arutada. Küsimused koos valikvastustega palun saata _reigo.hendrikson@gmail.com_. Küsimuste idee oleks juhtida tähelepanu millelegi
   - vaata ka [_How much do you know about science topics?_](http://www.pewresearch.org/quiz/science-knowledge/) Kuidas läks?
