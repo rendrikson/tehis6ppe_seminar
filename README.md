@@ -11,7 +11,7 @@
     - lineaarne diskriminantanalüüs lk 138-150
 
 #### 2. Tekkinud küsimused? 
-*PS!* Küsimusi võiksite saata jooksvalt. Saadetud küsimused panen siia samma lehele üles, et ka teised saaksid enne seminari nendele mõelda.
+**N.B.** Küsimusi võiksite saata jooksvalt. Saadetud küsimused panen siia samma lehele üles, et ka teised saaksid enne seminari nendele mõelda.
   - pane kirja tekkinud küsimused, et teaksin, millele seminaris erilist tähelepanu juhtida ja palun saada need mulle enne seminari _reigo.hendrikson@gmail.com_
     - kui küsimus on videoloengu/slaidi kohta, siis palun märgi ära slaidi number/raamatu lk.
   - pane kirja ka [rumalad küsimused](https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question), sest nendest õpime me ilmselt enim!
