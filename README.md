@@ -5,7 +5,7 @@
   - vaata üle [Ch1-Ch3 videod või slaidid](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (videode kogupikkus ~180min)
 
 #### 1. Tutvu materjalidega
-  - vaata üle [chapter 4](https://www.youtube.com/playlist?list=PL5-da3qGB5IC4vaDba5ClatUmFppXLAhE) videod (~102 min) või [slaidid](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/classification.pdf)
+  - vaata üle [chapter 4](https://www.youtube.com/playlist?list=PL5-da3qGB5IC4vaDba5ClatUmFppXLAhE) videod (~102 min) või [slaididega](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/classification.pdf)
   - tutvu [raamatus](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf) vastavate peatükkidega
     - logistiline regressioon lk 127-138 (pdf-s alates lk 141)
     - lineaarne diskriminantanalüüs lk 138-150
@@ -24,5 +24,5 @@ Kui te ise uurisite mõne küsimuse kohta ja leidsite hea vastuse, siis oleks v�
 #### 3. Valikvastustega küsimustik
 Et lihtsaim õigeid vastuseid leida oleks, soovitan enne vastamist tutvuda Tanel Pärnamaa postitusega: [kuidas valikvastustega testides skoorida?](http://stat24.ee/2013/12/kuidas-valikvastustega-testides-skoorida/)
   - vasta valikvastustega [küsimustikule](https://docs.google.com/forms/d/1OfgYr3C2UNIPHsE1T7_9ET3yWqNzHP5kH7qdiSrQl8A/viewform?usp=send_form) (~15min)
-  - mõtle ise välja 1-3 valikvastustega küsimust, mille üle seminaris koos mõelda/arutada. Küsimused koos valikvastustega palun saata _reigo.hendrikson@gmail.com_. Küsimuste idee oleks juhtida tähelepanu millelegi
+  - mõtle ise välja 1-3 valikvastustega küsimust, mille üle seminaris koos mõelda/arutada. Küsimused koos valikvastustega palun saata _reigo.hendrikson@gmail.com_. Küsimuste idee oleks juhtida tähelepanu mõnele segatust tekitavale või huvitavale teemale ning ideaalis on see seotud ka logistilise regressiooni või lineaarse diskriminantanalüüsiga.
   - vaata ka [_How much do you know about science topics?_](http://www.pewresearch.org/quiz/science-knowledge/) Kuidas läks?
