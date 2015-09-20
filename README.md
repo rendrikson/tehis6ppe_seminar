@@ -26,3 +26,5 @@ Et lihtsaim õigeid vastuseid leida oleks, soovitan enne vastamist tutvuda Tanel
   - vasta valikvastustega [küsimustikule](https://docs.google.com/forms/d/1OfgYr3C2UNIPHsE1T7_9ET3yWqNzHP5kH7qdiSrQl8A/viewform?usp=send_form) (~15min)
   - mõtle ise välja 1-3 valikvastustega küsimust, mille üle seminaris koos mõelda/arutada. Küsimused koos valikvastustega palun saata _reigo.hendrikson@gmail.com_. Küsimuste idee oleks juhtida tähelepanu mõnele segatust tekitavale või huvitavale teemale ning ideaalis on see seotud ka logistilise regressiooni või lineaarse diskriminantanalüüsiga.
   - vaata ka [_How much do you know about science topics?_](http://www.pewresearch.org/quiz/science-knowledge/) Kuidas läks?
+
+#### Tööta läbi R-i kood
