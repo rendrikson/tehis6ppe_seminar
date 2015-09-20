@@ -2,7 +2,7 @@
 #### Juhised seminariks ettevalmistumiseks
 
 #### 0. Ole kursis eelnevate loengute teemadega
-  - vaata üle[Ch1-Ch3 videod või slaidid](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (videode kogupikkus ~180min)
+  - vaata üle [Ch1-Ch3 videod või slaidid](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (videode kogupikkus ~180min)
 
 #### 1. Tutvu materjalidega
   - vaata üle [chapter 4](https://www.youtube.com/playlist?list=PL5-da3qGB5IC4vaDba5ClatUmFppXLAhE) videod (~102 min) või [slaidid](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/classification.pdf)
