@@ -28,7 +28,7 @@ Et lihtsaim õigeid vastuseid leida oleks, soovitan enne vastamist tutvuda Tanel
   - vaata ka [_How much do you know about science topics?_](http://www.pewresearch.org/quiz/science-knowledge/) Kuidas läks?
 
 #### 4. Tööta läbi R-i kood
-Lab 4 R-i koodi leiad [siit](http://www-bcf.usc.edu/~gareth/ISL/Chapter%204%20Lab.txt)
+Lab 4 R-i koodi leiad [siit](http://www-bcf.usc.edu/~gareth/ISL/Chapter%204%20Lab.txt).
   - Mis jäi segaseks? 
   - Mida uut õppisid?
   - Mida huvitavat leidsid?
