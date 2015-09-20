@@ -18,7 +18,7 @@
     - [kui usaldusväärne on p-väärtus](https://www.google.ee/search?client=ubuntu&channel=fs&q=should+we+trust+p-value&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=dwD_VbfRDOeO8QeX4LD4AQ)
     - kuidas koosmõjusid graafiliselt vaadata? Milliseid koosmõjusid lisada? 
     - kunas teisendada tunnust X (``log(X)``, ``sqrt(X)``)
-    - 
+
 Kui te ise uurisite mõne küsimuse kohta ja leidsite hea vastuse, siis oleks väga tänuväärne jagada nii küsimust kui ka vastust ka teistega. Selleks saata jällegi küsimus ja vastust sisaldav link mulle e-mailile. 
 
 #### 3. Valikvastustega küsimustik
