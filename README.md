@@ -1,1 +1,2 @@
-# tehis6ppe_seminar
+# Tehisõppe seminar
+## Klassifitseerimine logistilise regressiooni ja lineaarsediskriminantanalüüsi abil
