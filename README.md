@@ -3,7 +3,7 @@
 #### Laekunud küsimused
   - Youtube'i [viienda video](https://www.youtube.com/watch?v=RfrGiG1Hm3M&list=PL5-da3qGB5IC4vaDba5ClatUmFppXLAhE&index=5) lõpus öeldakse, et Bayesi reeglit kasutades saadud tulemus LDA-ga  on optimaalne kui distributsioon vms on teada. Seda teemat võiks natukene täpsemalt käsitleda homme ja mõelda, miks ta siis optimaalne on. - Lauri
 
-#### Juhised seminariks ettevalmistumiseks
+### Juhised seminariks ettevalmistumiseks
 
 #### 0. Ole kursis eelnevate loengute teemadega
   - vaata üle [Ch1-Ch3 videod või slaidid](http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) (videode kogupikkus ~180min)
